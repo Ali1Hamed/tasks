@@ -1,8 +1,8 @@
 // ---------------------------------------------------------
-// This Program to do opperathion in stack
+// This Program to do many operations  in stack
 // The like array which in it "Fist in Last out"
 // >>>>> ""FILO"" 
-// Thats mein that in it the first add to it be last out
+// That’s mean  that in it the first add to it be last out
 //----------------------------------------------------------
 
 #include <iostream>
